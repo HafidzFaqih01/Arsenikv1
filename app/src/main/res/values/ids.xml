@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="ph" type="id" />
+    <item name="tds" type="id" />
+    <item name="tmp" type="id" />
+</resources>
